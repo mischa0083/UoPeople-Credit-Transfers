@@ -680,16 +680,16 @@
     "transferable_credits": [
       {
         "code": "",
-        "institution": "",
-        "name": "",
-        "url": "",
+        "institution": "Saylor",
+        "name": "CS302: Software Engineering",
+        "url": "https://learn.saylor.org/course/view.php?id=73",
         "ace_valid_dates": [
           {
-            "start_date": "",
-            "end_date": ""
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31"
           }
         ],
-        "ace_url": ""
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Saylor+Academy&cid=d0654ad7-258b-eb11-a812-000d3a3ab0c1"
       }
     ],
     "type": "Computer Science (Major)",
