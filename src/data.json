@@ -1,0 +1,1273 @@
+{
+  "AHIST 1401": {
+    "description": "This survey course in Western Art History will explore art as a cultural production. This introduction to the academic discipline will familiarize students with major movements and styles of art as well as the various media and purposes of artistic production. The relationship of the visual arts and the individual artist to their society and culture will also be explored.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "Art History",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "ART103",
+        "institution": "Study.com",
+        "name": "History of Western Art 1",
+        "url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Study.com%2c+LLC&cid=658a6b00-14ad-eb11-8236-002248087374",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-05-14",
+            "end_date": "2024-02-29"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Study.com%2c+LLC&cid=658a6b00-14ad-eb11-8236-002248087374"
+      },
+      {
+        "code": "SOPHART1",
+        "institution": "Sophia Learning",
+        "name": "Art History 1",
+        "url": "https://www.sophia.org/online-courses/humanities/art-history-i",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-01-04",
+            "end_date": "2024-03-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=1bc24802-bb82-eb11-a812-000d3a59618d"
+      }
+    ],
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38901",
+    "type": "humanity",
+    "foundations": true,
+    "credits": 3
+  },
+  "BIOL 1121": {
+    "description": "This course introduces main concepts in biology, common to most living organisms. It covers topics in biochemistry, cell biology and genetics, which illustrate how molecules are organized into cells. Cells constitute the basic unit of life and genes are central to information flow within and between cells. This course makes use of assignments, conceived as mini-projects, to introduce experimental methods and research data repositories. Through these activities, the goal is to learn how to approach methodically a complex problem and find information relevant to a specific question. This course is, thus, meant both as a prerequisite to the study of biology at the organism or population level, and as a general introduction to how biological knowledge is being produced.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": true,
+    "name": "Biology 1 for Health Studies Major",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=160032",
+    "type": "natural science",
+    "foundations": true,
+    "credits": 3
+  },
+  "BIOL 1301": {
+    "description": "This provides an overview of biology. We examine the overarching theories of life from biological research and also explore the fundamental concepts and principles of the study of living organisms and their interaction with the environment. We will examine how life is organized into hierarchical levels; how living organisms use and produce energy; how life grows, develops, and reproduces; how life responds to the environment to maintain internal stability; and how life evolves and adapts to the environment.",
+    "grading": {
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "SQ": "5%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "Introduction to Biology",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=39155",
+    "type": "natural science",
+    "foundations": true,
+    "credits": 3
+  },
+  "BUS 1105": {
+    "description": "The purpose of this course is to build an understanding of effective uses of English/Arabic in a businessenvironment and to develop strong core business communication skills. This course introduces andenhances the varying modes of English/Arabic communication in the business environment andfocuses on when to use these varying modes, depending on the situation. Students are provided thetools to function in a cross-cultural, global business environment and develop an understanding of thebest techniques for successful communication in varying business contexts.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "40%",
+      "LJ": "10%",
+      "WA": "10%"
+    },
+    "isProctored": false,
+    "name": "Business Communications",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=113662",
+    "type": "general",
+    "foundations": false,
+    "credits": 3
+  },
+  "CS 1101": {
+    "description": "This course covers the basics of computer programming and provides a foundation for further learning in this area. No previous computer programming knowledge is required to finish this course. The course uses the Python programming language which is very simple and straightforward. The course also covers abstract concepts which can be applied to almost any programming language, and students are encouraged to pay attention to these, since the way of thinking like a programmer is the most valuable lesson they will learn.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "PA": "5%"
+    },
+    "isProctored": false,
+    "name": "Programming Fundamentals",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "Google Data Analytics Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-08-01",
+            "end_date": "2024-07-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Google&cid=76f8bc06-34f9-eb11-94ef-000d3a3396c4"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "IBM Data Analyst Professional",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=042f274c-682b-ec11-b6e5-000d3a58e694"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "IBM Data Science Professional",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=eb7d51c4-662b-ec11-b6e5-000d3a58e694"
+      }
+    ],
+    "type": "general",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37612",
+    "foundations": true,
+    "credits": 3,
+    "required_by": [
+      "CS"
+    ]
+  },
+  "CS 1102": {
+    "description": "This course is an introduction to computer programming. Programming is the art of explaining to a computer what you want it to do, in exact detail and in a language that the computer can understand. Programming is only one part of computer science, but it is the most basic and most central part. It is an activity that requires you to think logically, to solve problems, to express yourself clearly, and often to endure a certain amount of frustration as you try to get your programs to work. The result, though, can be very rewarding. Many different languages are used for writing computer programs. Fortunately, it is possible to learn the principles and general techniques of programming that can be applied no matter what language you write in. Although you will work with a specific language, you should try not to lose sight of the general ideas. In this course, we will use the Java programming language. Java is a relatively new language, having been introduced in 1995. In the years since its introduction, it has become one of the most important languages for real application development. It is a very versatile language. Java can be used to write regular desktop applications and to make \"applets\" that can appear on Web pages. Many complex interactive Web sites are written in Java, and it can be used to write applications for many types of mobile phones. Even high-performance scientific programming has been done in Java.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "PA": "5%"
+    },
+    "isProctored": false,
+    "name": "Programming 1",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "IBM Data Analyst Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=042f274c-682b-ec11-b6e5-000d3a58e694"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "IBM Data Science Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=eb7d51c4-662b-ec11-b6e5-000d3a58e694"
+      }
+    ],
+    "type": "general",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37613",
+    "foundations": true
+  },
+  "CS 1103": {
+    "description": "This course builds on the Introduction to Programming 1 course and teaches a more highly developed Java programming language with features beyond the basic concepts covered in the first programming course. A large part of the course will be devoted to more advanced building blocks such as recursion, linked data structures, and Java's Collection Framework. In addition to this, you will learn more about designing and coding complex, robust, and efficient programs. And you will be introduced to a professional programming tool: the Eclipse Integrated Development Environment.",
+    "grading": {
+      "DQ": "20%",
+      "FE": "20%",
+      "GQ": "20%",
+      "LJ": "10%",
+      "PA": "30%"
+    },
+    "isProctored": false,
+    "name": "Programming 2",
+    "prerequisites": "[\"CS 1102\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "general",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38895"
+  },
+  "CS 1104": {
+    "description": "This course is an introduction to computer systems. In this course we will begin by exploring the internal design and functionality of the most basic computer components. From there, we will use an online hardware simulator to actually “build” a computer and develop an assembler from the ground using concepts we will learn in the class. In the process, we will cover the ideas and techniques used in the design of modern computer hardware and discuss major trade-offs involved in system design as well as future trends in computer architecture and how those trends might affect tomorrow’s computers.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "40%",
+      "LJ": "10%",
+      "PA": "10%"
+    },
+    "isProctored": false,
+    "name": "Computer Systems",
+    "prerequisites": "[\"CS 1103\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37614"
+  },
+  "CS 2203": {
+    "description": "This course introduces the fundamental concepts necessary for designing, using and implementing database systems. We stress the fundamentals of database modeling and design, relational theory and the Structured Query Language (SQL).",
+    "grading": {
+      "DQ": "20%",
+      "FE": "30%",
+      "GQ": "20%",
+      "LJ": "10%",
+      "PA": "20%"
+    },
+    "isProctored": false,
+    "name": "Databases 1",
+    "prerequisites": "[\"CS 1102\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "Introduction to Relational Databases",
+        "url": "https://app.sophia.org/online-courses/introduction-to-relational-databases",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-04-01",
+            "end_date": "2024-03-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=96adc445-bc82-eb11-a812-000d3a59618d"
+      },
+      {
+        "code": "",
+        "institution": "Study.com",
+        "name": "Computer Science 303: Database Management",
+        "url": "https://study.com/academy/course/computer-science-303-database-management.html",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-03-01",
+            "end_date": "2024-02-29"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Study.com%2c+LLC&cid=7ccdff2b-13ad-eb11-8236-002248087374"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "Google Data Analytics Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-08-01",
+            "end_date": "2024-07-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Google&cid=76f8bc06-34f9-eb11-94ef-000d3a3396c4"
+      },
+      {
+        "code": "DP-100",
+        "institution": "Microsoft",
+        "name": "Designing and Implementing a Data Science Solution on Azure",
+        "url": "https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100",
+        "ace_valid_dates": [
+          {
+            "start_date": "2020-06-01",
+            "end_date": "2023-05-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Microsoft+Corporation&cid=8fb6586f-94c4-ea11-a812-000d3a378a3a"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "IBM Data Analyst Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=042f274c-682b-ec11-b6e5-000d3a58e694"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "IBM Data Science Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=eb7d51c4-662b-ec11-b6e5-000d3a58e694"
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37615"
+  },
+  "CS 3306": {
+    "description": "",
+    "grading": {},
+    "isProctored": true,
+    "name": "Dabases 2",
+    "prerequisites": "[\"CS 2203\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "Introduction to Relational Databases",
+        "url": "https://app.sophia.org/online-courses/introduction-to-relational-databases",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-04-01",
+            "end_date": "2024-03-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=96adc445-bc82-eb11-a812-000d3a59618d"
+      },
+      {
+        "code": "",
+        "institution": "Study.com",
+        "name": "Computer Science 204: Database Programming",
+        "url": "https://study.com/academy/course/computer-science-204-database-programming.html",
+        "ace_valid_dates": [
+          {
+            "start_date": "2019-03-01",
+            "end_date": "2022-02-28"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Study.com%2c+LLC&cid=41f65551-94c4-ea11-a812-000d3a378a3a"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "Google Data Analytics Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-08-01",
+            "end_date": "2024-07-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Google&cid=76f8bc06-34f9-eb11-94ef-000d3a3396c4"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "IBM Data Analyst Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=042f274c-682b-ec11-b6e5-000d3a58e694"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "IBM Data Science Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=eb7d51c4-662b-ec11-b6e5-000d3a58e694"
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37620"
+  },
+  "CS 2204": {
+    "description": "Communications and Networking is a course where you will get to know and understand the basics of networking and electronic communication. Throughout the course, we will mainly be focusing on the two most prevalent reference models of network definition, OSI and TCP/IP. We will be studying these in detail and will explore every layer of these models. By the end of the course, you will be having a fair understanding of data is transferred from one computer to another, in a classroom or in a college campus or across the cities or over the internet.",
+    "grading": {
+      "DQ": "20%",
+      "FE": "25%",
+      "GQ": "20%",
+      "LJ": "10%",
+      "WA": "25%"
+    },
+    "isProctored": false,
+    "name": "Communications and Networking",
+    "prerequisites": "[\"CS 1104\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Saylor",
+        "name": "CS402: Communications and Networks",
+        "url": "https://learn.saylor.org/course/view.php?id=84",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Saylor+Academy&cid=2352f43f-248b-eb11-a812-000d3a3ab0c1"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "Google IT Support Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/google-it-support",
+        "ace_valid_dates": [
+          {
+            "start_date": "2019-09-01",
+            "end_date": "2022-08-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Google&cid=f4125c5d-94c4-ea11-a812-000d3a378a3a"
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38896"
+  },
+  "CS 2205": {
+    "description": "This course is devoted to the development of Web sites with standards considering client-side programming. Students learn how the internet works, the web standards mode, web design concepts, HTML, CSS, JavaScript, XML and will be introduced to PHP. Participants in the course will be required to carry out practical work in terms of assignments and small projects.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "40%",
+      "LJ": "10%",
+      "PA": "10%"
+    },
+    "isProctored": true,
+    "name": "Web Programming 1",
+    "prerequisites": "[\"CS 1103\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "Introduction to Web Development",
+        "url": "https://app.sophia.org/online-courses/introduction-to-web-development",
+        "ace_valid_dates": [
+          {
+            "start_date": "2020-12-01",
+            "end_date": "2023-11-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=d72838eb-ef7d-eb11-a812-000d3a3bd758"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "Google UX Design Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-08-01",
+            "end_date": "2024-07-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Google&cid=e67577b5-1bf9-eb11-94ef-000d3a3396c4"
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37616"
+  },
+  "CS 3305": {
+    "description": "This course builds on the concepts and issues discussed in Web Programming 1 surrounding software development for programs that operate on the web and the Internet. Existing and emerging web development topics to be covered include web applications, web services, enterprise web development, markup languages, and server-side programming.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "40%",
+      "LJ": "10%",
+      "PA": "10%"
+    },
+    "isProctored": true,
+    "name": "Web Programming 2",
+    "prerequisites": "[\"CS 2205\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "Introduction to Web Development",
+        "url": "https://app.sophia.org/online-courses/introduction-to-web-development",
+        "ace_valid_dates": [
+          {
+            "start_date": "2020-12-01",
+            "end_date": "2023-11-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=d72838eb-ef7d-eb11-a812-000d3a3bd758"
+      },
+      {
+        "code": "",
+        "institution": "Coursera",
+        "name": "Google UX Design Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-08-01",
+            "end_date": "2024-07-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Google&cid=e67577b5-1bf9-eb11-94ef-000d3a3396c4"
+      }
+    ],
+      "type": "Computer Science (Major)",
+      "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=39151"
+  },
+  "CS 2301": {
+    "description": "The course Operating Systems I is the first of two courses designed to explain the intricacies of modern operating systems to the students. Throughout this course, students will be learning about the basic structure of an operating system in detail. There are the three key ideas we’re going to learn about over the course of OS1 and OS2: virtualization, concurrency, and persistence. In learning about these ideas, we’ll learn all about how an operating system works, including how it decides what program to run next on a CPU, how it handles memory overload in a virtual memory system, how virtual machine monitors work, how to manage information on disks, and even a little about how to build a distributed system that works when parts of them have failed.  OS1 will focus entirely on the Windows O/S and Virtualization. OS2 will continue with the concepts of concurrency, and persistence and focus on the Linux operating system.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "40%",
+      "LJ": "10%",
+      "PA": "10%"
+    },
+    "isProctored": true,
+    "name": "Operating Systems 1",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38897"
+  },
+  "CS 2401": {
+    "description": "Software Engineering is a broad topic that begins with the general introduction to software development and then onto the identification and understanding of the important phases of any software project . This course focuses on the pragmatic aspects concerned with the production of software from early inception to post-release activities, such as development processes, requirements analysis, design methodologies, development methodologies, verification and testing, and quality control. We will be focusing on Agile Development and Object Oriented Development Techniques, use of UML and other related methodologies. By the end of the course you will know what it takes to be a software engineer/software engineering researcher, understand how projects are planned and the techniques that are used to validate, test, and improve their performance.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "40%",
+      "LJ": "10%",
+      "WA": "10%"
+    },
+    "isProctored": false,
+    "name": "Software Engineering 1",
+    "prerequisites": "[\"CS 1103\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37617"
+  },
+  "ECON 1580": {
+    "description": "This course provides an introduction to economics as well as an overview of macroeconomics and microeconomics. Course topics include the operations of a market economy, money and banking, the relations between business organizations and government regulatory agencies, optimal allocation of resources, price stability and long-term growth.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "Introduction to economics",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37625",
+    "elective-type": "social science",
+    "foundations": true
+  },
+  "ENGL 0101": {
+    "description": "The purpose of this course is to further develop students’ English language, reading, and writing skills as a foundation for their academic studies at UoPeople. The units focus on a range of texts and genres designed to improve students’ knowledge and understanding of academic discourse. Each unit also focuses on the progressive development of reading, grammar, writing and test taking skills.  This course is required for all students that have not demonstrated English proficiency and have been considered for provisional admission as a non-degree student.  Students must earn a 73% or higher in the course to meet the English language proficiency requirement at UoPeople.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "25%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "15%"
+    },
+    "isProctored": true,
+    "name": "English Composition 1",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=63889",
+    "foundations": true
+  },
+  "ENGL 1102": {
+    "description": "This course is designed to introduce the students to the concept and application of the academic research paper and its components. The ability to understand a thesis and utilize critical thinking in order to produce synthesis is also featured. In addition, the course features genre studies and will develop the student's ability to analyze various analytic problem sets and discover a creative solution that is rooted in the student's own intellectual strengths while building other areas for the student's academic and personal growth. By the end of the course the student will create a self-exploratory research paper of collegiate quality. English Composition is a required course for all students at the University of the People.\n\n",
+    "grading": {
+      "DQ": "10%",
+      "FE": "40%",
+      "GQ": "20%",
+      "LJ": "20%",
+      "WA": "10%"
+    },
+    "isProctored": true,
+    "name": "English Composition 2",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "StraighterLine",
+        "name": "English Composition I",
+        "url": "https://www.straighterline.com/online-college-courses/english/english-composition-i/",
+        "ace_valid_dates": [
+          {
+            "start_date": "2018-05-01",
+            "end_date": "2022-01-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=StraighterLine&cid=983995f0-8dc4-ea11-a812-000d3a378a3a"
+      },
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "English Composition I",
+        "url": "https://www.sophia.org/online-courses/english-and-communication/english-composition-i-3",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-04-01",
+            "end_date": "2024-03-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=5ddbf0c0-bb82-eb11-a812-000d3a59618d"
+      },
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "English Composition II",
+        "url": "https://www.sophia.org/online-courses/english-and-communication/english-composition-ii",
+        "ace_valid_dates": [
+          {
+            "start_date": "2019-08-01",
+            "end_date": "2022-07-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=d2d0185e-94c4-ea11-a812-000d3a33232a"
+      }
+    ],
+    "type": "General Education (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37626",
+    "foundations": true,
+    "credits": 3,
+    "required_by": [
+      "BA",
+      "CS",
+      "HS"
+    ]
+  },
+  "engl1405": {
+    "description": "This course is designed to introduce the students to the structural concepts of world literature and how to read critically with an emphasis on analysis and synthesis. The course will focus on both verbal and visual literacy via critical reading exercises. By the end of the course, the student will have conducted both practical and practice based research in the area of world literature. This course will give the student the tools needed to be successful at and beyond their lives at the University of the People and build the student's personal growth.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "World Literature",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=134258",
+    "elective-type": "humanity",
+    "foundations": true
+  },
+  "envs1301": {
+    "description": "This course will help the student to prepare for living in current and future society's mixture of technology and mythology by presenting ideas and concepts about living systems and their environments. Policymakers and citizens are urgently needed to be aware and have a conscious understanding of ecological principles when exercising community responsibilities to handle the environmental problems of our times, such as water use, solid waste management, global warming, energy use, conservation of irreplaceable natural resources, overpopulation, and the preservation of biodiversity. An understanding of biological and ecological principles and their application towards environmental challenges should give the student the confidence to be a trustworthy and active citizen, a conscientious steward of nature, and an agent of change for making a healthy, sustainable community and society. Regardless of the students' field of study, as a citizen of both local and global communities, some environmental issues will impact their lives.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "Introduction to Environmental Science",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37627",
+    "elective-type": "natural science",
+    "foundations": true
+  },
+  "hist1421": {
+    "description": "The course will include views on the rise of democracy and a brief description of the rise and fall of the Roman Empire. Students will address the question: In what ways did Greek and Roman civilizations provide the foundations for the development of Western culture?",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "Greek and Roman Civilization",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "StraighterLine",
+        "name": "Western Civilization I",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-09-01",
+            "end_date": "2024-08-31"
+          }
+        ],
+        "ace_url": "https://www.straighterline.com/online-college-courses/humanities/western-civilization-i/"
+      },
+      {
+        "code": "",
+        "institution": "Modern States/CLEP",
+        "name": "Western Civilization I",
+        "ace_valid_dates": [
+          {
+            "start_date": "2001-07-01",
+            "end_date": "2022-12-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=College+Board%27s+College-Level+Examination+Program+(CLEP)&cid=6525a0f8-84c4-ea11-a812-000d3a378a3a"
+      }
+    ],
+    "type": "general",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38899",
+    "foundations": true,
+    "credits": 3
+  },
+  "math1201": {
+    "description": "This course provides a solid grounding in algebra, trigonometry, and analytic geometry in preparation for further mathematical studies. The course includes an extensive study of linear, quadratic, and rational functions. It also contains an introduction to exponential and logarithmic functions and circles. Finally, the topic of systems of linear equations is covered.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": true,
+    "name": "College Algebra",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "StraighterLine",
+        "name": "College Algebra",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      },
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "College Algebra",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "general",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37628",
+    "foundations": true,
+    "credits": 3
+  },
+  "math1211": {
+    "description": "This course provides an interdisciplinary introduction to the core concepts of differential calculus, covering a wide range of topics. Content includes both applications and theory of differential calculus leading to an introduction of the Fundamental Theorem of Calculus. Learners will continue to refine independent study skills, problem solving, logically correct and mathematically precise writing and thinking, and their ability to use geometric, symbolic, and analytic formats in presenting solutions to both abstract and real world applications. Class activities will include lectures/discussions as well as tests and quizzes. All communications shall be delivered in writing.",
+    "grading": {
+      "DQ": "20%",
+      "FE": "25%",
+      "GQ": "20%",
+      "LJ": "10%",
+      "WA": "25%"
+    },
+    "isProctored": false,
+    "prerequisites": [
+      "math1201"
+    ],
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "name": "Calculus",
+    "type": "general",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=115902",
+    "foundations": false,
+    "credits": 3
+  },
+  "math1280": {
+    "description": "This course presents students with basic concepts in statistics and probability, and encourages statistical thinking. This course is intended to bring students to a level where they can carry out simple statistical analysis of simple data. Topics covered include descriptive statistics, probability, discrete and continuous random variables, the sampling distribution and the Central Limit Theorem. The R statistical programming environment is used for computation, graphical presentation, and simulations. The emphasis in the course is on the presentation of statistical methods and on the interpretation of the outcome. The philosophy of statistics, and not its mathematics, is at the center of this course; needed mathematical concepts are demonstrated via simulations rather than by abstract proofs.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": true,
+    "name": "Introduction to Statistics",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "Introduction to Statistics",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37629",
+    "foundations": true
+  },
+  "PHIL 1402": {
+    "description": "This Course traces the origins of philosophical thinking from Socrates and Plato in Ancient Greece to great thinkers of modern times. The profound questions they posed about reality, ethics, and knowledge still challenge us today. The idea that philosophy is a manner of thinking about the most basic problems faced by ordinary people is stressed and students are encouraged to examine the ideas and answer the questions of the philosophers as they impact their own lives.",
+    "grading": {
+      "DQ": "15%",
+      "FE": "30%",
+      "GQ": "20%",
+      "LJ": "10%",
+      "WA": "25%"
+    },
+    "isProctored": false,
+    "name": "Introduction to Philosophy",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "StraighterLine",
+        "name": "Introduction to Philosophy",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      },
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "Ancient Greek Philosophers",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37631",
+    "elective-type": "humanity"
+  },
+  "PHIL 1404": {
+    "description": "This course intends to teach how ethics is involved in determining the value and meaning of individual and collective actions across a variety of business contexts. Being based on an open access edition of Business Ethics, a Creative Commons book made available to the general public by 2012 Book Archive initiative, this course reflects a case study approach to teaching ethics as a philosophical subject that can be relevant to making career choices, job-related decisions and evaluative judgments. Therefore, it is hoped that in this course you will find applications and illustrations of Business Ethics concepts in relation to real-life ethical dilemmas, business world topics, and specific case studies that call for independent thinking and ethical argumentation. As an online resource, the textbook that this course is based upon is periodically updated with links to current discussions and events, which ensures its continued relevance.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "30%",
+      "LJ": "10%",
+      "WA": "20%"
+    },
+    "isProctored": false,
+    "name": "Ethics and Social Responsibility",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Sophia Learning",
+        "name": "Introduction to Ethics",
+        "ace_valid_dates": [
+          {
+            "start_date": "2019-08-01",
+            "end_date": "2022-07-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=684592cb-93c4-ea11-a812-000d3a33232a"
+      }
+    ],
+    "type": "General Education (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37632"
+  },
+  "POLS 1503": {
+    "description": "This course examines changes in national economies over the past half-century. Special attention is given to the ways that globalization impacts citizenship, ethnic and religious issues, migration, public health, poverty, and wealth. The course’s cross-cultural context affords the opportunity to address issues of a global nature, which may profoundly influence the conditions under which people live and work.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "Globalization",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38900",
+    "elective-type": "social science",
+    "foundations": true
+  },
+  "PSYC 1111": {
+    "description": "Psychology is defined as the scientific study of the human mind and its functions, especially those affecting behavior in a given context. This course will draw upon health psychology, public health, and community psychology to emphasize how psychology contributes to overall health, as well as the cause, progression, and outcomes of physical illness.  This course will highlight the many roles that psychology plays in health and illness including,  the role of health behaviors and behavior change;  beliefs about illness; symptom perception; help-seeking and communication with health professions; stress, pain and chronic conditions such as obesity, coronary heart disease and HIV; the role of gender on health; and health outcomes in terms of quality of life and life expectancy.\n\n",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "Introduction to Health Psychology",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "Health Science (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=160034",
+    "elective-type": "social science"
+  },
+  "PSYC 1205": {
+    "description": "This course examines the concepts and practical applications of emotional intelligence.\n\nEmotional intelligence is the ability to manage one's own internal emotional environment and one's ability to participate in relationships with others.\n\nThrough a highly interactive format, the course will focus on how to assess basic skills in emotional intelligence, how to develop strategies to improve and enhance basic skill levels, and how to experiment with techniques that facilitate dealing with others of varying emotional backgrounds and competency levels.",
+    "grading": {
+      "DQ": "15%",
+      "FE": "30%",
+      "GQ": "30%",
+      "LJ": "15%",
+      "WA": "10%"
+    },
+    "isProctored": false,
+    "name": "Emotional Intelligence",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=67085",
+    "elective-type": "social science"
+  },
+  "PSYC 1504": {
+    "description": "Psychology is defined as the scientific study of the human mind and its functions, especially those affecting behavior in a given context. Most people associate psychology with clinical issues, such as abnormal psychology, but it encompasses many different aspects of our lives from individual development, social interactions, and physiological aspects of human behavior. This course serves as an overview of the major fields in psychology with an emphasis on empirical evidence on the science of human thought and behavior.\n",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": true,
+    "name": "Introduction to Psychology",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "type": "General Education (Elective)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37633",
+    "elective-type": "social science",
+    "foundations": true
+  },
+  "SOC 1502": {
+    "description": "This course intends to teach how simple, everyday human actions and interactions can change the world. Being based on a Canadian edition of Introduction to Sociology, a Creative Commons book developed by OpenStax College, this course reflects the teaching and research experience of numerous sociologists. Therefore, it is hoped that in this course you will find applications of Sociology concepts that are globally relevant, academically current, and culturally balanced.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": true,
+    "name": "Introduction to Sociology",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37634",
+    "type": "social science",
+    "foundations": true
+  },
+  "UNIV 1001": {
+    "description": "This course will serve as preparation for students to make a successful journey into the University's online learning environment. It will introduce students to the University of the People's resources available to them, to the academic methods, and to the policies and expectations for student performance. Further, it will provide an overview of strategies for student success including time and stress management, effective study skills, and personal ownership of the learning process.",
+    "grading": {
+      "DQ": "5%",
+      "FE": "40%",
+      "GQ": "30%",
+      "LJ": "20%",
+      "WA": "5%"
+    },
+    "isProctored": false,
+    "name": "Online Education Strategies",
+    "prerequisites": "[]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "",
+        "name": "",
+        "url": "",
+        "ace_valid_dates": [
+          {
+            "start_date": "",
+            "end_date": ""
+          }
+        ],
+        "ace_url": ""
+      }
+    ],
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37635",
+    "type": "general",
+    "foundations": true,
+    "credits": 3,
+    "required_by": [
+      "BA",
+      "CS",
+      "HS"
+    ]
+  }
+}
