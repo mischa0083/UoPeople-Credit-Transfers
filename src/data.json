@@ -635,6 +635,36 @@
     "type": "Computer Science (Major)",
     "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38897"
   },
+  "CS 3307": {
+    "description": "This course builds on principles learned in Operating Systems 1 to approach complex computer operating system topics such as networks, parallel computing, remote procedure call, concurrency, transactions, shared memory, message passing, scale, naming, and security.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "40%",
+      "LJ": "10%",
+      "PA": "10%"
+    },
+    "isProctored": true,
+    "name": "Operating Systems 2",
+    "prerequisites": "[\"CS 2301\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Study.com",
+        "name": "Computer Science 305: Operating Systems",
+        "url": "https://study.com/academy/course/computer-science-305-operating-systems.html",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Study.com%2c+LLC&cid=c42b0d27-f051-ec11-8c62-000d3a5afed6"
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=39152"
+  },
   "CS 2401": {
     "description": "Software Engineering is a broad topic that begins with the general introduction to software development and then onto the identification and understanding of the important phases of any software project . This course focuses on the pragmatic aspects concerned with the production of software from early inception to post-release activities, such as development processes, requirements analysis, design methodologies, development methodologies, verification and testing, and quality control. We will be focusing on Agile Development and Object Oriented Development Techniques, use of UML and other related methodologies. By the end of the course you will know what it takes to be a software engineer/software engineering researcher, understand how projects are planned and the techniques that are used to validate, test, and improve their performance.",
     "grading": {
@@ -664,6 +694,36 @@
     ],
     "type": "Computer Science (Major)",
     "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37617"
+  },
+  "CS 3303": {
+    "description": "Software Engineering is a broad topic that begins with the general introduction to software development and then onto the identification and understanding of the important phases of any software project . This course focuses on the pragmatic aspects concerned with the production of software from early inception to post-release activities, such as development processes, requirements analysis, design methodologies, development methodologies, verification and testing, and quality control. We will be focusing on Agile Development and Object Oriented Development Techniques, use of UML and other related methodologies. By the end of the course you will know what it takes to be a software engineer/software engineering researcher, understand how projects are planned and the techniques that are used to validate, test, and improve their performance.",
+    "grading": {
+      "DQ": "10%",
+      "FE": "30%",
+      "GQ": "40%",
+      "LJ": "10%",
+      "WA": "10%"
+    },
+    "isProctored": true,
+    "name": "Software Engineering 1",
+    "prerequisites": "[\"CS 1103\"]",
+    "transferable_credits": [
+      {
+        "code": "",
+        "institution": "Study.com",
+        "name": "Computer Science 201: Data Structures & Algorithms",
+        "url": "https://study.com/academy/course/computer-science-201-data-structures.html",
+        "ace_valid_dates": [
+          {
+            "start_date": "2019-03-01",
+            "end_date": "2022-02-28"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Study.com%2c+LLC&cid=85c60152-94c4-ea11-a812-000d3a33232a"
+      }
+    ],
+    "type": "Computer Science (Major)",
+    "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37618"
   },
   "ECON 1580": {
     "description": "This course provides an introduction to economics as well as an overview of macroeconomics and microeconomics. Course topics include the operations of a market economy, money and banking, the relations between business organizations and government regulatory agencies, optimal allocation of resources, price stability and long-term growth.",
@@ -915,25 +975,27 @@
         "code": "",
         "institution": "StraighterLine",
         "name": "College Algebra",
+        "url": "https://www.straighterline.com/online-college-courses/mathematics/college-algebra/",
         "ace_valid_dates": [
           {
-            "start_date": "",
-            "end_date": ""
+            "start_date": "2021-06-01",
+            "end_date": "2024-05-31"
           }
         ],
-        "ace_url": ""
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=StraighterLine&cid=1d7ac01f-bdf6-eb11-94ef-000d3a3396c4"
       },
       {
         "code": "",
         "institution": "Sophia Learning",
         "name": "College Algebra",
+        "url": "https://app.sophia.org/spcc/college-algebra-3",
         "ace_valid_dates": [
           {
-            "start_date": "",
-            "end_date": ""
+            "start_date": "2019-02-01",
+            "end_date": "2022-03-31"
           }
         ],
-        "ace_url": ""
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=SOPHIA+Learning%2c+LLC&cid=b35a0494-92c4-ea11-a812-000d3a378a3a"
       }
     ],
     "type": "general",
@@ -957,16 +1019,42 @@
     "transferable_credits": [
       {
         "code": "",
-        "institution": "",
-        "name": "",
-        "url": "",
+        "institution": "Saylor",
+        "name": "MA005: Calculus I",
+        "url": "https://learn.saylor.org/course/ma005",
         "ace_valid_dates": [
           {
-            "start_date": "",
-            "end_date": ""
+            "start_date": "2018-06-01",
+            "end_date": "2022-03-31"
           }
         ],
-        "ace_url": ""
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Saylor+Academy&cid=4799b62d-94c4-ea11-a812-000d3a33232a"
+      },
+      {
+        "code": "",
+        "institution": "Study.com",
+        "name": "Math 104: Calculus",
+        "url": "https://study.com/academy/course/calculus.html",
+        "ace_valid_dates": [
+          {
+            "start_date": "2019-11-01",
+            "end_date": "2022-10-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Study.com%2c+LLC&cid=ae0bc413-93c4-ea11-a812-000d3a378a3a"
+      },
+      {
+        "code": "",
+        "institution": "StraighterLine",
+        "name": "General Calculus I",
+        "url": "https://www.straighterline.com/online-college-courses/mathematics/mat250xxtwlsl001000001-b.html",
+        "ace_valid_dates": [
+          {
+            "start_date": "2021-05-01",
+            "end_date": "2024-05-31"
+          }
+        ],
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=StraighterLine&cid=fd825172-e722-ec11-b6e6-000d3a34f821"
       }
     ],
     "name": "Calculus",
