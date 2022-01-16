@@ -705,7 +705,7 @@
       "WA": "10%"
     },
     "isProctored": true,
-    "name": "Software Engineering 1",
+    "name": "Data Structures",
     "prerequisites": "[\"CS 1103\"]",
     "transferable_credits": [
       {
