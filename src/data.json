@@ -791,7 +791,7 @@
       "HS"
     ]
   },
-  "engl1405": {
+  "ENGL 1405": {
     "description": "This course is designed to introduce the students to the structural concepts of world literature and how to read critically with an emphasis on analysis and synthesis. The course will focus on both verbal and visual literacy via critical reading exercises. By the end of the course, the student will have conducted both practical and practice based research in the area of world literature. This course will give the student the tools needed to be successful at and beyond their lives at the University of the People and build the student's personal growth.",
     "grading": {
       "DQ": "5%",
@@ -823,7 +823,7 @@
     "elective-type": "humanity",
     "foundations": true
   },
-  "envs1301": {
+  "ENVS 1301": {
     "description": "This course will help the student to prepare for living in current and future society's mixture of technology and mythology by presenting ideas and concepts about living systems and their environments. Policymakers and citizens are urgently needed to be aware and have a conscious understanding of ecological principles when exercising community responsibilities to handle the environmental problems of our times, such as water use, solid waste management, global warming, energy use, conservation of irreplaceable natural resources, overpopulation, and the preservation of biodiversity. An understanding of biological and ecological principles and their application towards environmental challenges should give the student the confidence to be a trustworthy and active citizen, a conscientious steward of nature, and an agent of change for making a healthy, sustainable community and society. Regardless of the students' field of study, as a citizen of both local and global communities, some environmental issues will impact their lives.",
     "grading": {
       "DQ": "5%",
@@ -855,7 +855,7 @@
     "elective-type": "natural science",
     "foundations": true
   },
-  "hist1421": {
+  "HIST 1421": {
     "description": "The course will include views on the rise of democracy and a brief description of the rise and fall of the Roman Empire. Students will address the question: In what ways did Greek and Roman civilizations provide the foundations for the development of Western culture?",
     "grading": {
       "DQ": "5%",
@@ -898,7 +898,7 @@
     "foundations": true,
     "credits": 3
   },
-  "math1201": {
+  "MATH 1201": {
     "description": "This course provides a solid grounding in algebra, trigonometry, and analytic geometry in preparation for further mathematical studies. The course includes an extensive study of linear, quadratic, and rational functions. It also contains an introduction to exponential and logarithmic functions and circles. Finally, the topic of systems of linear equations is covered.",
     "grading": {
       "DQ": "5%",
@@ -941,7 +941,7 @@
     "foundations": true,
     "credits": 3
   },
-  "math1211": {
+  "MATH 1211": {
     "description": "This course provides an interdisciplinary introduction to the core concepts of differential calculus, covering a wide range of topics. Content includes both applications and theory of differential calculus leading to an introduction of the Fundamental Theorem of Calculus. Learners will continue to refine independent study skills, problem solving, logically correct and mathematically precise writing and thinking, and their ability to use geometric, symbolic, and analytic formats in presenting solutions to both abstract and real world applications. Class activities will include lectures/discussions as well as tests and quizzes. All communications shall be delivered in writing.",
     "grading": {
       "DQ": "20%",
@@ -952,7 +952,7 @@
     },
     "isProctored": false,
     "prerequisites": [
-      "math1201"
+      "MATH 1201"
     ],
     "transferable_credits": [
       {
@@ -975,7 +975,7 @@
     "foundations": false,
     "credits": 3
   },
-  "math1280": {
+  "MATH 1280": {
     "description": "This course presents students with basic concepts in statistics and probability, and encourages statistical thinking. This course is intended to bring students to a level where they can carry out simple statistical analysis of simple data. Topics covered include descriptive statistics, probability, discrete and continuous random variables, the sampling distribution and the Central Limit Theorem. The R statistical programming environment is used for computation, graphical presentation, and simulations. The emphasis in the course is on the presentation of statistical methods and on the interpretation of the outcome. The philosophy of statistics, and not its mathematics, is at the center of this course; needed mathematical concepts are demonstrated via simulations rather than by abstract proofs.",
     "grading": {
       "DQ": "5%",
