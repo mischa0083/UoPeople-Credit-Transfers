@@ -620,16 +620,16 @@
     "transferable_credits": [
       {
         "code": "",
-        "institution": "",
-        "name": "",
-        "url": "",
+        "institution": "Study.com",
+        "name": "Computer Science 105: Introduction to Operating Systems",
+        "url": "https://study.com/academy/course/computer-science-105-introduction-to-operating-systems.html",
         "ace_valid_dates": [
           {
-            "start_date": "",
-            "end_date": ""
+            "start_date": "2021-10-01",
+            "end_date": "2024-09-30"
           }
         ],
-        "ace_url": ""
+        "ace_url": "https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Study.com%2c+LLC&cid=45d88f02-4851-ec11-8c62-000d3a5afed6"
       }
     ],
     "type": "Computer Science (Major)",

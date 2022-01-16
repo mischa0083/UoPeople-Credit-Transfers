@@ -9,6 +9,7 @@ const Home = () => {
                 <thead>
                     <tr>
                         <th>Course Code</th>
+                        <th>Proctored?</th>
                         <th>Course Name</th>
                         <th>Vendor</th>
                         <th>Vendor Course</th>
@@ -25,12 +26,15 @@ const Home = () => {
                                             {key}
                                         </td>
                                         <td>
+                                            {data[key].isProctored? "Yes" : "No"}
+                                        </td>
+                                        <td>
                                             <a href={data[key].url}>
                                                 {data[key].name}
                                             </a>
                                         </td>
                                         <td>
-                                            {key2.institution}
+                                            {!!(key2.institution)? key2.institution : "N/A"}
                                         </td>
                                         <td>
                                             <a href={key2.url}>
@@ -39,7 +43,7 @@ const Home = () => {
                                         </td>
                                         <td>
                                             <a href={key2.ace_url}>
-                                                {key2.ace_valid_dates[0].start_date} - {key2.ace_valid_dates[0].end_date}
+                                                {key2.ace_valid_dates[0].start_date + " - " + key2.ace_valid_dates[0].end_date}
                                             </a>
                                         </td>
                                     </tr>
